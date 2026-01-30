@@ -1,0 +1,8 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Enforces strict Test-Driven Development workflow: suggest test, write test, implement code to pass, one test at a time",
+  "author": "Robert Escuain",
+  "prompt": "tdd-prompt.md",
+  "userInvocable": true
+}
